@@ -102,7 +102,7 @@ body {
 
 .skill-box {
   height: 120px;
-  background: rgba(255, 255, 255, 0.05);
+  background: #1f1f1f;
   backdrop-filter: blur(10px);
   border-radius: 16px;
   display: flex;
@@ -136,7 +136,7 @@ body {
 }
 
 .skill-box.react {
-  background: linear-gradient(135deg,rgba(255, 255, 255, 0.05), #1f1f1f);
+  background: linear-gradient(135deg, #1f1f1f);
   color: #fffbfb;
   font-weight: 700;
 }
